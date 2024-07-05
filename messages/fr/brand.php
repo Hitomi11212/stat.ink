@@ -10,7 +10,7 @@
 declare(strict_types=1);
 
 return [
-    'Amiibo' => '',
+    'Amiibo' => 'Amiibo',
     'Cuttlegear' => 'Macalamar',
     'Famitsu' => '',
     'Firefin' => 'Friture',
