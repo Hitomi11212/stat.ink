@@ -12,13 +12,13 @@ declare(strict_types=1);
 
 return [
     '(3rd party defined)' => '(définis par un tiers)',
-    '(Session)' => '',
-    '(Twitter)' => '',
+    '(Session)' => '(Session)',
+    '(Twitter)' => '(Twitter)',
     'A token used for the auto login feature' => 'Un cookie utilisé pour la connexion auto',
     'A token used to avoid CSRF vulnerability' => 'Un cookie utilisé pour éviter la vulnérabilité CSRF',
     'Cookie ID (Name)' => 'ID Cookie (Nom)',
-    'Cookies' => '',
-    'descriptions' => '',
+    'Cookies' => 'Cookies',
+    'descriptions' => 'Descriptions',
     'Expires' => 'Expire',
     'I agree' => 'J\'accepte',
     'Issued and used by CloudFlare' => 'Émit et utilisé par CloudFlare',
