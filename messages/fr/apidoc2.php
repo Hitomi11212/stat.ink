@@ -10,7 +10,7 @@ declare(strict_types=1);
 
 return [
     'Ability' => '',
-    'Ability information' => '',
+    'Ability information' => 'test',
     'About UUID, refer [RFC 4122](https://tools.ietf.org/html/rfc4122).' => '',
     'Accepts `1`-`50` (otherwise)' => '',
     'Accepts `1`-`1000` (if `only` = `splatnet_number`)' => '',
